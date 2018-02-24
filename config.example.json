@@ -1,0 +1,20 @@
+{
+  "rooms":[
+    {
+      "name":"log1000",
+      "time":{
+        "w":5,
+        "h_start":14,
+        "m_start":45,
+        "h_end":17,
+        "m_end":35
+      },
+      "phones":[]
+    }
+  ],
+  "twilio":{
+    "phone":"",
+    "account_sid":"",
+    "account_token":""
+  }
+}
