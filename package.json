@@ -1,0 +1,15 @@
+{
+  "name": "scorativenotify",
+  "version": "0.1.1",
+  "description": "Notifies you when a room is open in socrative, so you don't need to be present in class",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "log4js": "^2.5.3",
+    "twilio": "^3.11.3"
+  }
+}
